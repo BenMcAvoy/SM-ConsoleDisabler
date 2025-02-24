@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ScrappySM/CarbonLauncher/refs/heads/main/schema.json",
+
+  "name": "SM-ConsoleDisabler",
+  "url": "https://github.com/BenMcAvoy/SM-ConsoleDisabler",
+
+  "authors": [
+    "BenMcAvoy"
+  ],
+
+  "description": "No description yet, needs to be filled in"
+}
